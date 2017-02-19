@@ -1,0 +1,14 @@
+{
+  "name": "resume",
+  "version": "0.0.0",
+  "main": "resume.json",
+  "repository": "git@github.com:verticalpalette/resume.git",
+  "author": "Daniel Phan <daniel@trythings.com>",
+  "license": "none",
+  "devDependencies": {
+    "resume-cli": "0.4.19"
+  },
+  "scripts": {
+    "resume": "resume"
+  }
+}
