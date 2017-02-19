@@ -40,10 +40,12 @@
             "endDate": "2016-02-01",
             "summary": "Capsule is a newer, better, kinder, smarter pharmacy. My partner and I started helping Capsule as the first individual contributors. We grew the product from an idea to an implementation, taking on many roles along the way.",
             "highlights": [
-                "We created both the API and web app while navigating complex security considerations with PHI and HIPAA",
+                "We created both the API and web app while navigating PHI and HIPAA privacy and security compliance",
                 "We wrote a REST API in Go for client apps to access patients, prescriptions, medications, orders, and more",
                 "We created an internal app that allowed pharmacists to fill prescriptions, interact with patients, and interface with existing pharmacy management systems",
-                "We implemented a React app for exercising the patient and pharmacy flow, which became the production web app"
+                "We implemented a React app for exercising the patient and pharmacy flow, which became the production web app",
+                "We set up practices for documentation, code reviews, snippets, weekly check-ins, etc.",
+                "We screened, interviewed, and mentored engineers joining the team"
             ]
         },
         {
@@ -52,12 +54,12 @@
             "website": "https://asana.com",
             "startDate": "2013-09-01",
             "endDate": "2015-06-01",
-            "summary": "Asana is the easiest way for teams to track their work. I joined Asana's growth team, emphasizing frequent experimentation and statistical rigor. I later joined the infrastructure team to work on the performance-focused second version of the Luna framework that Asana runs on.",
+            "summary": "Asana is the easiest way for teams to track their work. I joined Asana's growth team, emphasizing frequent experimentation and statistical rigor. I later joined the infrastructure team to work on the performance-focused V2 of the Luna framework that Asana is built on.",
             "highlights": [
                 "I owned and exceeded the KR for launching A/B tests",
                 "We designed, implemented, and converted existing code to use a new access control language",
-                "We authored a Typescript model generator for the new Luna API",
-                "I shipped product features like comment pinning and attachments view",
+                "We authored a TypeScript model generator for the Luna V2 API",
+                "I shipped product features like comment pinning and the file attachments view",
                 "I made numerous contributions to Asana's internal processes, including bayesian A/B testing and gender-neutral interview feedback"
             ]
         },
