@@ -1,0 +1,206 @@
+{
+    "basics": {
+        "name": "Daniel Phan",
+        "label": "Software Engineer",
+        "picture": "",
+        "email": "daniel@trythings.com",
+        "website": "http://trythings.com",
+        "summary": "",
+        "location": {
+            "address": "340 S Lemon Ave #9006N",
+            "postalCode": "91789",
+            "city": "Walnut",
+            "countryCode": "US",
+            "region": "California"
+        },
+        "profiles": [
+            {
+                "network": "LinkedIn",
+                "username": "",
+                "url": "https://www.linkedin.com/in/daniel-phan-5aa6bb24"
+            },
+            {
+                "network": "GitHub",
+                "username": "verticalpalette",
+                "url": "https://github.com/verticalpalette"
+            },
+            {
+                "network": "Medium",
+                "username": "danielphan",
+                "url": "https://medium.com/@danielphan"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "Capsule",
+            "position": "Software Engineer, Consultant",
+            "website": "https://capsulecares.com",
+            "startDate": "2015-06-01",
+            "endDate": "2016-02-01",
+            "summary": "Capsule is a newer, better, kinder, smarter pharmacy. My partner and I started helping Capsule as the first individual contributors. We grew the product from an idea to an implementation, taking on many roles along the way.",
+            "highlights": [
+                "We created both the API and web app while navigating complex security considerations with PHI and HIPAA",
+                "We wrote a REST API in Go for client apps to access patients, prescriptions, medications, orders, and more",
+                "We created an internal app that allowed pharmacists to fill prescriptions, interact with patients, and interface with existing pharmacy management systems",
+                "We implemented a React app for exercising the patient and pharmacy flow, which became the production web app"
+            ]
+        },
+        {
+            "company": "Asana",
+            "position": "Software Engineer",
+            "website": "https://asana.com",
+            "startDate": "2013-09-01",
+            "endDate": "2015-06-01",
+            "summary": "Asana is the easiest way for teams to track their work. I joined Asana's growth team, emphasizing frequent experimentation and statistical rigor. I later joined the infrastructure team to work on the performance-focused second version of the Luna framework that Asana runs on.",
+            "highlights": [
+                "I owned and exceeded the KR for launching A/B tests",
+                "We designed, implemented, and converted existing code to use a new access control language",
+                "We authored a Typescript model generator for the new Luna API",
+                "I shipped product features like comment pinning and attachments view",
+                "I made numerous contributions to Asana's internal processes, including bayesian A/B testing and gender-neutral interview feedback"
+            ]
+        },
+        {
+            "company": "Foursquare",
+            "position": "Software Engineer",
+            "website": "https://foursquare.com",
+            "startDate": "2012-09-01",
+            "endDate": "2013-09-01",
+            "summary": "Foursquare helps you find the perfect places to go with friends. I joined Foursquare's growth team as a server engineer working primarily in Scala. I later transitioned to become the growth team's primary Android engineer.",
+            "highlights": [
+                "I measured and analyzed the impact of new features and experiments on key metrics for new users (e.g. conversion, retention) using Hive, Vertica, and Graphite",
+                "I owned and implemented the sign-up flow, onboarding flow, and Facebook integration on Foursquare for Android",
+                "I shipped a Netflix-style \"ratings game\" that helps power place recommendations on Foursquare for Android"
+            ]
+        },
+        {
+            "company": "Google",
+            "position": "Software Engineer Intern",
+            "website": "https://google.com",
+            "startDate": "2011-08-01",
+            "endDate": "2011-12-01",
+            "summary": "Google+ API",
+            "highlights": [
+                "I developed an open-source project in Go for Google App Engine and command-line to help third-party developers create Google+ applications",
+                "I helped support users' ability to export their Google Buzz information using Google Takeout"
+            ]
+        },
+        {
+            "company": "TextNow",
+            "position": "Web Developer",
+            "website": "https://textnow.com",
+            "startDate": "2011-01-01",
+            "endDate": "2011-08-01",
+            "summary": "TextNow gives you free texting and calling. At TextNow, I implemented the web version of the product using SproutCore, allowing users to send and receive texts in real time.",
+            "highlights": [
+                "I designed and implemented a 100k+ concurrent connection server using Tornado (Python) to support browser push notifications",
+                "I led the effort to redesign the internal API as a RESTful web service"
+            ]
+        },
+        {
+            "company": "Amazon",
+            "position": "Software Development Engineer Intern",
+            "website": "https://amazon.com",
+            "startDate": "2010-05-01",
+            "endDate": "2010-08-01",
+            "summary": "Amazon Relational Database Service (RDS)",
+            "highlights": [
+                "I was a major contributor to the launch of DB Engine Version Management",
+                "I made numerous improvements to the team's internal monitoring tools"
+            ]
+        },
+        {
+            "company": "BlackBerry",
+            "position": "Distributed Computing Applications Developer Co-op",
+            "website": "https://blackberry.com",
+            "startDate": "2009-09-01",
+            "endDate": "2009-12-01",
+            "summary": "",
+            "highlights": [
+                "I developed an internal, proof-of-concept BlackBerry app that showcased a new Bluetooth and Wi-Fi technology under research."
+            ]
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "Goovy-Eclipse",
+            "position": "Contributor",
+            "website": "https://github.com/groovy/groovy-eclipse",
+            "startDate": "2012-01-01",
+            "endDate": "2012-04-01",
+            "summary": "",
+            "highlights": []
+        }
+    ],
+    "education": [
+        {
+            "institution": "University of Waterloo",
+            "area": "Computer Science",
+            "studyType": "Bachelor of Computer Science",
+            "startDate": "2008-09-01",
+            "endDate": "2012-08-01",
+            "gpa": "",
+            "courses": [
+                "Distributed systems",
+                "Networks",
+                "Graphics",
+                "User interfaces",
+                "Operating systems"
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "name": "I have recent experience with",
+            "keywords": [
+                "Go",
+                "Google App Engine",
+                "JavaScript (ES2015)",
+                "HTML",
+                "CSS",
+                "React",
+                "Relay",
+                "GraphQL",
+                "Webpack",
+                "git"
+            ]
+        },
+        {
+            "name": "I am familiar with",
+            "keywords": [
+                "PostgreSQL",
+                "Android",
+                "Scala",
+                "Java",
+                "TypeScript",
+                "Python",
+                "Gulp",
+                "Browserify"
+            ]
+        },
+        {
+            "name": "It's been a while since I used",
+            "keywords": [
+                "C++",
+                "Ruby/Rails",
+                "Python/Django/Tornado",
+                "Play",
+                "Graphite",
+                "Hive"
+            ]
+        }
+    ],
+    "interests": [
+        {
+            "name": "",
+            "keywords": [
+                "Climbing",
+                "Dogs",
+                "Rationality",
+                "Board games",
+                "Video games"
+            ]
+        }
+    ]
+}
