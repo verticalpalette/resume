@@ -33,6 +33,19 @@
     },
     "work": [
         {
+            "company": "Dropbox",
+            "position": "Software Engineer",
+            "website": "https://dropbox.com",
+            "startDate": "2016-10-18",
+            "endDate": "present",
+            "summary": "Monetization",
+            "highlights": [
+                "We shipped an improved experience for users who signed up for a trial of Dropbox Pro on iOS",
+                "I shipped the ability for any internal email campagin to automatically sign users into their account",
+                "I created a proof-of-concept GraphQL API on top of the Dropbox HTTP API"
+            ]
+        },
+        {
             "company": "Capsule",
             "position": "Software Engineer, Consultant",
             "website": "https://capsulecares.com",
