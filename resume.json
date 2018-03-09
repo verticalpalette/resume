@@ -37,12 +37,15 @@
             "position": "Software Engineer",
             "website": "https://dropbox.com",
             "startDate": "2016-10-18",
-            "endDate": "present",
-            "summary": "Monetization",
+            "summary": "I lead a team building components that third-party developers use to integrate their apps with Dropbox.",
             "highlights": [
-                "We shipped an improved experience for users who signed up for a trial of Dropbox Pro on iOS",
-                "I shipped the ability for any internal email campagin to automatically sign users into their account",
-                "I created a proof-of-concept GraphQL API on top of the Dropbox HTTP API"
+                "I shipped the ability for any Dropbox email campagin to automatically sign users into their account",
+                "I created a proof-of-concept GraphQL API on top of the Dropbox HTTP API",
+                "I onboard and mentor engineers joining the team",
+                "I guide the team's technical direction and create processes to help the team work more effectively together",
+                "I shipped Dropbox for Microsoft Outlook",
+                "We redesigned the Chooser and Saver components",
+                "We improved the performance of the Chooser and Saver by more than 1 second"
             ]
         },
         {
@@ -139,7 +142,7 @@
     ],
     "volunteer": [
         {
-            "organization": "Goovy-Eclipse",
+            "organization": "Groovy-Eclipse",
             "position": "Contributor",
             "website": "https://github.com/groovy/groovy-eclipse",
             "startDate": "2012-01-01",
@@ -169,40 +172,32 @@
         {
             "name": "I have recent experience with",
             "keywords": [
-                "Go",
-                "Google App Engine",
-                "JavaScript (ES2015)",
+                "JavaScript",
+                "TypeScript",
+                "React",
                 "HTML",
                 "CSS",
-                "React",
-                "Relay",
-                "GraphQL",
-                "Webpack",
+                "Python",
                 "git"
             ]
         },
         {
             "name": "I am familiar with",
             "keywords": [
-                "PostgreSQL",
-                "Android",
-                "Scala",
-                "Java",
-                "TypeScript",
-                "Python",
-                "Gulp",
-                "Browserify"
+                "Relay",
+                "GraphQL",
+                "Go",
+                "Google App Engine",
+                "Hive"
             ]
         },
         {
             "name": "It's been a while since I used",
             "keywords": [
-                "C++",
-                "Ruby/Rails",
-                "Python/Django/Tornado",
-                "Play",
-                "Graphite",
-                "Hive"
+                "Scala",
+                "Java",
+                "Android",
+                "PostgreSQL"
             ]
         }
     ],
